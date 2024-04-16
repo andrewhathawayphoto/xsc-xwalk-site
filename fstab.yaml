@@ -1,6 +1,5 @@
 mountpoints:
-
   /:
-    url: https://author-p124211-e1224519.adobeaemcloud.com/bin/franklin.delivery/deckreyes/xsc-xwalk-site/main
+    url: https://author-p124211-e1224519.adobeaemcloud.com/bin/franklin.delivery/andrewhathawayphoto/xsc-xwalk-site/main
     type: markup
     suffix: ".html"
