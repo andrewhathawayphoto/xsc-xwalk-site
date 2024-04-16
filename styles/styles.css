@@ -18,7 +18,7 @@
   --background-color: #fff;
   --overlay-background-color: #eee;
   --highlight-background-color: #ffc719;
-  --text-color: #202020;
+  --text-color: white;
   --text-color-light: #ebebeb;
   --heading-highlight-color: #ffea00;
   --overlay-text-color: var(--text-color);
